@@ -1,0 +1,43 @@
+img {
+	margin-top: 30px;
+	margin-left: 36px;
+	width: 100,18px;
+}
+nav {
+	font-family: BPGNinoMtavruli-Bold;
+	font-size: 22px;
+	line-height: 30px;
+	margin-left: 36px;
+	margin-top: 20px;
+	width: 123px;
+}
+.active {
+	color: #EE4036;
+}
+.unactive{
+	color: #3D58A6;
+}
+.Group {
+	width: 1117px;
+	margin-left: 36px;
+	margin-top: 21px;
+}
+.facebook {
+	width: 14px;
+	margin-left: 36px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.Youtube {
+	width: 25px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.Line {
+	height: 27px;
+	margin-left: 35px;
+	margin-top: 32px;
+	margin-bottom: 31px;
+}
